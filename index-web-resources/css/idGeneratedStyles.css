@@ -1,0 +1,207 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div._idGenClearFloat {
+	clear:both;
+}
+
+div.Basic-Text-Frame {
+    border-style:solid;
+}
+h3.Dialogando {
+	-epub-hyphens:none;
+	color:#9e661b;
+	font-family:"Museo 500", serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0.844;
+	margin-bottom:10px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:15px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h1.Disciplina {
+	-epub-hyphens:none;
+	background-color:#9e661b;
+	border-color:#eddfd2;
+	border-style:solid;
+	border-width:0px 0px 0px 35px;
+	color:#ffffff;
+	font-family:"Museo Sans 900", sans-serif;
+	font-size:39px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:2;
+	margin-bottom:0;
+	margin-left:35px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:15px;
+	text-transform:none;
+	widows:1;
+}
+p.Texto-Materia {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Museo Sans 300", sans-serif;
+	font-size:15px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.5;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:30px;
+	text-transform:none;
+	widows:1;
+}
+h2.T-tulo-Capitulo, li.T-tulo-Capitulo {
+	-epub-hyphens:none;
+	color:#9e661b;
+	font-family:"Museo Sans 900", sans-serif;
+	font-size:23px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	list-style-position:inside;
+	list-style-type:decimal;
+	margin-bottom:0px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:15px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.captilar {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Museo Sans 300", sans-serif;
+	font-size:15px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.5;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+figcaption.legenda {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Museo Sans 700", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.CharOverride-1 {
+	font-style:normal;
+	font-weight:normal;
+}
+._idGenDropcap-1 {
+	color:#9e661b;
+	float:left;
+	font-family:"Museo 700", serif;
+	font-size:4.713em;
+	font-style:normal;
+	font-weight:600;
+	line-height:1;
+	margin-bottom:-0.25em;
+	margin-right:0.05em;
+	margin-top:-0.037em;
+}
+#_idContainer000 {
+	display:inline-block;
+	width:96.00%;
+    margin: 33px 33px
+}
+#_idContainer001 {
+	width:100.00%;
+}
+#_idContainer004 {
+	width:39.05%;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
+div._idGenObjectLayout-2 {
+	float:right;
+	margin:110px 0px 14px 14px;
+}
+
+.Basic-Graphics-Frame {
+    margin: 10px 0px 0px 0px
+}
+
+#index {
+    margin:  10px 5% 10px 1%
+}
